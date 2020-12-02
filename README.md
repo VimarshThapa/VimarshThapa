@@ -28,7 +28,9 @@
 ## 📝Blog
  - [![Medium][medium-icon]][medium]
  
- [![Vimarsh's github stats](https://github-readme-stats.vercel.app/api?username=VimarshThapa)](https://github.com/VimarshThapa/github-readme-stats)
+ [![Vimarsh's github stats](https://github-readme-stats.vercel.app/api?username=VimarshThapa&theme=gotham&show_icons=true)](https://github.com/VimarshThapa/github-readme-stats)
+ 
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VimarshThapa&theme=gotham)](https://github.com/VimarshThapa/github-readme-stats)
 
 <!-- ICONS -->
 [medium-icon]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
