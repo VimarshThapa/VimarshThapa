@@ -26,5 +26,12 @@
 - ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 📝Blog
- - [![Medium][https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white]][https://thapavimarsh.medium.com]
+ - [![Medium][medium-icon]][medium]
+ 
+ [![Vimarsh's github stats](https://github-readme-stats.vercel.app/api?username=VimarshThapa)](https://github.com/VimarshThapa/github-readme-stats)
 
+<!-- ICONS -->
+[medium-icon]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+
+<!-- Link to social media -->
+[medium]: https://thapavimarsh.medium.com
